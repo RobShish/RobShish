@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
-<h3 align="center">I'm a student at UTS studying a Bachelor of Computing Science (Honours), majoring in Artificial Intelligence and Data Analytics, and sub-majoring in AWS. I am currently completing an internship at DogBase</h3>
+<h3 align="center">I'm a student at UTS studying a Bachelor of Computing Science (Honours), majoring in Artificial Intelligence and Data Analytics, and sub-majoring in AWS. I am currently completing an internship at a startup - DogBase.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
